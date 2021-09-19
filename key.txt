@@ -1,0 +1,9 @@
+My App
+Client ID
+MA6t0z6jPHwi87c96LOcHw
+
+API Key
+zl98Qe4bxBGPZMcyXnYiFwmyRU_GiVlYzNKTgUMWwQuS1ZoOQTdpPjdB88jlkuTmyPZ3BHQ9grJKtKOwBS-34JXSf4rHtxSTRSfcIOvQBjFvcnr8EXXw5VFZ68xFYXYx
+
+(npm sometimes has issue react-navigation) ==> ue yarn instead
+yarn install 
