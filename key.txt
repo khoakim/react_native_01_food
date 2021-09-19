@@ -7,3 +7,5 @@ zl98Qe4bxBGPZMcyXnYiFwmyRU_GiVlYzNKTgUMWwQuS1ZoOQTdpPjdB88jlkuTmyPZ3BHQ9grJKtKOw
 
 (npm sometimes has issue react-navigation) ==> ue yarn instead
 yarn install 
+@react-native-community/masked-view - expected version: 0.1.10 - actual version installed: 0.1.11
+yarn upgrade @react-native-community/masked-view@0.1.10
