@@ -4,7 +4,7 @@ import {useEffect, useState} from 'react';
 export default () => {
     const [results, setResults]=useState([]);
     const [error, setError]=useState("");
-    console.log(term);
+
     const searchApi = async (searchTerm) => {
         try {
             const response = await yelp.get('/search',{
@@ -25,6 +25,7 @@ export default () => {
 
     }
 
+    // useEffect with second argument empty array means this will run once at render
     useEffect( () => {
         searchApi('pasta');
     },[]);
